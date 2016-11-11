@@ -15,7 +15,7 @@ Books
 Upcase by thoughtbot
 --------------------
 
-* [Upcase Trail with Chris Toomey](https://thoughtbot.com/upcase/tmux)
+* [Tmux Trail with Chris Toomey](https://thoughtbot.com/upcase/tmux)
 
 Dotfiles
 --------
